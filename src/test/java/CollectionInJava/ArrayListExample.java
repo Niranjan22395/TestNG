@@ -12,6 +12,7 @@ public class ArrayListExample {
 		RollNum.add(102);
 		RollNum.add(111);
 		RollNum.add(112);
+		RollNum.add(115);
 		
 		Collections.sort(RollNum);
 		System.out.println(RollNum);
